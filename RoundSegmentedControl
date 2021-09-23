@@ -1,8 +1,7 @@
 //
-//  SegmentedView.swift
-//  experiencias
+//  RoundSegmentedControl.swift
 //
-//  Created by Leo Lopez on 23/9/21.
+//  Created by Leonado Lopez on 23/9/21.
 //
 
 import UIKit
